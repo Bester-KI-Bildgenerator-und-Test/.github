@@ -15,8 +15,6 @@
   width="20%"
 />
 
-<a target="_blank" href="https://lensgo.ai/?via=new">=> Klicke hier um 100 Credits bei der Erstellung eines Kontos auf LensGo AI zu erhalten!</a>
-
 <h3>Detailreiche Bilderstellung aus Textbeschreibungen</h3>
 
 <p>Midjourney ermöglicht es Kreativen, aus einfachen oder komplexen Textbeschreibungen detaillierte und visuell beeindruckende Bilder zu erzeugen. Anders als herkömmliche Tools wie DALL·E 3 oder Leonardo AI legt Midjourney besonderen Wert auf die detailgenaue Umsetzung auch feiner Nuancen. So genügt bereits eine präzise Beschreibung, um Lichtverhältnisse, Texturen oder Stimmungen treffsicher wiederzugeben. Gerade Illustratoren und Designer profitieren von dieser exakten Bildgenerierung, da zeitraubende Nachbearbeitungsschritte signifikant reduziert werden. In einem Testvergleich zeigten sich bei Midjourney rund 85% der Bilder bereits beim ersten Generierungsversuch annähernd zufriedenstellend.</p>
@@ -32,6 +30,8 @@
   <li>Assets und Hintergründe für digitale Kampagnen und Werbematerialien</li>
   <li>Inspirierende Elemente zur Ideenfindung und Konzeptentwicklung</li>
 </ul>
+
+<a target="_blank" href="https://lensgo.ai/?via=new">=> Klicke hier um 100 Credits bei der Erstellung eines Kontos auf LensGo AI zu erhalten!</a>
 
 <p>Laut einer Umfrage unter Nutzern (2024) konnte durch den gezielten Einsatz von Midjourney die Dauer typischer Design-Projekte um bis zu 40% reduziert werden. So entsteht nicht nur ein Zeitgewinn, sondern auch eine deutliche Effizienzsteigerung, insbesondere bei Agenturen mit kurzen Lead-Zeiten.</p>
 
