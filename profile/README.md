@@ -318,6 +318,8 @@
   <li><strong>Realistische Video-Generierung:</strong> Pika Labs mit realistischer Kamera- und Bewegungssimulation.</li>
 </ul>
 
+<a target="_blank" href="https://lensgo.ai/?via=new">=> Klicke hier um 100 Credits bei der Erstellung eines Kontos auf LensGo AI zu erhalten!</a>
+
 <p>Durch die gezielte Nutzung der Stärken der einzelnen Tools lässt sich die Effizienz in deinem kreativen Workflow enorm steigern.</p>
 
 <a target="_blank" href="https://lensgo.ai/?via=new">=> Klicke hier um 100 Credits bei der Erstellung eines Kontos auf LensGo AI zu erhalten!</a>
