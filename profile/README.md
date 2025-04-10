@@ -1,4 +1,4 @@
-<h1>Bester KI Bildgenerator im Test (2025): Welches Tool überzeugt am meisten?</h1>
+<h1>Bester KI Bildgenerator im Test Welches Tool überzeugt am meisten?</h1>
 
 <img src="https://cdn.discordapp.com/attachments/337687742488117261/1359918910773919844/LensGo_AI-Generierung_von_3_Bildstilen.png?ex=67f93aae&is=67f7e92e&hm=b73f63dbb9a41b69f088b65a9ad59f541fc3e36951e034b8440f3647e8a5368f&"
   alt="LensGo AI-Generierung von 3 Bildstilen"
